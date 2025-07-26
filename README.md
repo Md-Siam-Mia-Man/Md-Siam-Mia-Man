@@ -1,17 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  <h1 align="center">Hi there, I'm Siam Mia 👋</h1>
+  <h1 align="center">Hi there, I'm Md Siam Mia 👋</h1>
 </div>
 
 <p align="center">
-  <em>A passionate web development learner from Bangladesh 🇧🇩. I love to create open-source applications that actually help people.</em>
+  <em>A passionate web development learner from Bangladesh. I love to create open-source applications that actually help people.</em>
 </p>
-
-<div align="center">
-  <a href="mailto:mdsiammia.main@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 ---
 
@@ -27,13 +21,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,docker,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git&perline=4" />
   </a>
 </p>
 
 ---
 
-### 📊 My Stats (with a custom theme!)
+### 📊 My Stats
 
 <table align="center" width="100%">
   <tr>
