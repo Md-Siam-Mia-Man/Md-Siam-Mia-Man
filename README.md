@@ -1,7 +1,3 @@
-<!-- 
-  This version has your Wakatime username and a fully custom theme.
--->
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
   <h1 align="center">Hi there, I'm Siam Mia 👋</h1>
@@ -43,12 +39,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Md_Siam_Mia_Code&show_icons=true&include_all_commits=true&count_private=true&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Md-Siam-Mia-Code&show_icons=true&include_all_commits=true&count_private=true&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md_Siam_Mia_Code&layout=compact&langs_count=6&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Siam-Mia-Code&layout=compact&langs_count=6&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's Top Languages" />
       </a>
     </td>
   </tr>
@@ -60,7 +56,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md_Siam_Mia_Code&bg_color=1a1a1a&color=f1f1f1&line=ff0b55&point=ff0b55&area=true&area_color=cf0f47&hide_border=true&hide_title=false" height="180" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Siam-Mia-Code&bg_color=1a1a1a&color=f1f1f1&line=ff0b55&point=ff0b55&area=true&hide_border=true&title_color=ff0b55" height="180" alt="activity-graph graph"  />
       </a>
     </td>
   </tr>
@@ -71,5 +67,5 @@
 ### 🐍 Here's a little snake eating up my contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Md_Siam_Mia_Code/Md_Siam_Mia_Code/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Md-Siam-Mia-Code/Md-Siam-Mia-Code/output/snake.svg" alt="Snake animation" />
 </div>
