@@ -51,7 +51,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/athul/waka-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true&layout=compact" alt="Siam's Wakatime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Md-Siam-Mia-Code&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true&layout=compact" alt="Siam's Wakatime Stats" />
       </a>
     </td>
     <td align="center" width="50%">
