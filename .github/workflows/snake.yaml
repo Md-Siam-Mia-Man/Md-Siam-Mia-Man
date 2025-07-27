@@ -23,8 +23,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Here is the magic! We use your custom red color for the snake.
+          # This is the only line that has been changed
           outputs: dist/snake.svg?color_snake=ff0b55
+
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
