@@ -30,6 +30,7 @@
 ### 📊 My Stats
 
 <table align="center" width="100%">
+  <!-- Top Row: GitHub Stats & Top Languages -->
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,15 +43,11 @@
       </a>
     </td>
   </tr>
+  <!-- Bottom Row: Activity Graph (spanning full width) -->
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/athul/waka-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Md_Siam_Mia_Code&theme=custom&bg_color=1a1a1a&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true&layout=compact" alt="Siam's Wakatime Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
+    <td colspan="2" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Siam-Mia-Code&bg_color=1a1a1a&color=f1f1f1&line=ff0b55&point=ff0b55&area=true&hide_border=true&title_color=ff0b55" height="180" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Siam-Mia-Code&bg_color=1a1a1a&color=f1f1f1&line=ff0b55&point=ff0b55&area=true&hide_border=true&title_color=ff0b55" width="100%" alt="activity-graph graph"  />
       </a>
     </td>
   </tr>
