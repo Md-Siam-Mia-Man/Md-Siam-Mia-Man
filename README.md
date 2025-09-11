@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently building and exploring new ideas for useful open-source projects.
 - 🌱 I’m currently learning **TypeScript, Next.js, and advanced CSS**.
-- 📫 You can reach me at my email: **mdsiammia.main@gmail.com**
+- 📫 You can reach me at my email: **mdsiammia.man@gmail.com**
 - ⚡ Fun fact: I can solve one side of a Rubik's cube... the journey continues!
 
 ---
