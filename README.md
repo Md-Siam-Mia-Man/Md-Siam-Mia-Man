@@ -26,23 +26,19 @@
 
 ---
 
-### 📊 My Stats
-
 <table align="center" width="100%">
-  <!-- Top Row: GitHub Stats & Top Languages -->
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Md-Siam-Mia-Man&show_icons=true&include_all_commits=true&count_private=true&theme=custom&bg_color=000000&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's GitHub Stats" />
+      <a href="https://github.com/Md-Siam-Mia-Man">
+        <img src="https://github-readme-stats.vercel.app/api?username=Md-Siam-Mia-Man&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Siam-Mia-Man&layout=compact&langs_count=6&theme=custom&bg_color=000000&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&hide_border=true" alt="Siam's Top Languages" />
+      <a href="https://github.com/Md-Siam-Mia-Man">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Siam-Mia-Man&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ff0b55&icon_color=ff0b55&text_color=f1f1f1&bg_color=000000" alt="Md Siam Mia Top Languages" />
       </a>
     </td>
   </tr>
-  <!-- Bottom Row: Activity Graph -->
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
